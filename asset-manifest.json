@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CryptoDash/static/css/main.7fb5787a.chunk.css",
+    "main.js": "/CryptoDash/static/js/main.6f5ac4de.chunk.js",
+    "main.js.map": "/CryptoDash/static/js/main.6f5ac4de.chunk.js.map",
+    "runtime~main.js": "/CryptoDash/static/js/runtime~main.dbe0dabc.js",
+    "runtime~main.js.map": "/CryptoDash/static/js/runtime~main.dbe0dabc.js.map",
+    "static/js/2.f05cdd38.chunk.js": "/CryptoDash/static/js/2.f05cdd38.chunk.js",
+    "static/js/2.f05cdd38.chunk.js.map": "/CryptoDash/static/js/2.f05cdd38.chunk.js.map",
+    "index.html": "/CryptoDash/index.html",
+    "precache-manifest.4d50bf263b7c61fab3a74c7daa2b79c1.js": "/CryptoDash/precache-manifest.4d50bf263b7c61fab3a74c7daa2b79c1.js",
+    "service-worker.js": "/CryptoDash/service-worker.js",
+    "static/css/main.7fb5787a.chunk.css.map": "/CryptoDash/static/css/main.7fb5787a.chunk.css.map"
+  }
+}
